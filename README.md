@@ -1,12 +1,12 @@
 # Jogo da Velha
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Daniel-lins/Jogo-da-Velha/blob/main/LICENSE) 
 
-VocÊ pode acessar o projeto  no link abaixo <br>
+Você pode acessar o projeto  no link abaixo <br>
 <a href="https://jogo-da-velha-five.vercel.app/">Aqui</a>
 
 
 ## Sobre o projeto
-Classico jogo da velha Feito com JavaScript no botcamp  JavaScript Game Developer da Digital Innovation one
+Clássico jogo da velha Feito com JavaScript no botcamp  JavaScript Game Developer da Digital Innovation one
 
 ## Game
 
